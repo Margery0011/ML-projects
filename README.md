@@ -21,3 +21,17 @@
 - Program language: Python (sklearn)
 - Code:[repiratory](https://github.com/Margery0011/Predicting-Probability-and-the-Level-of-Dementia-Using-Machine-Learning-Models)
 
+
+# Other projects
+
+## Differential Gene Expression profiling of females with Lobular carcinoma and Infiltrating duct carcinoma in the early stage of Breast Cancer
+
+- Introduction: Aimed to find the differential expressed genes for early-stage patients with Invasive (infiltrating) ductal carcinoma (IDC)
+- Program language: R (Deseq2 )
+- Code :[repiratory](https://github.com/Margery0011/Differential-Gene-Expression-profiling-of-female-with-Lobular-carcinoma-and-Infiltrating-duct-carcin)
+
+
+## Comparisons of HBV-associated Liver fibrosis with  Normal tissue
+
+- Program language: Linux, R 
+- Code :[repiratory](https://github.com/Margery0011/Comparisons-of-HBV-associated-Liver-fibrosis-with-Normal-tissues/blob/main/Liver%20Fibrosis%20.pdf)
